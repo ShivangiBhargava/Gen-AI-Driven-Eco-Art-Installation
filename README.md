@@ -38,4 +38,5 @@ Impact Measurement
 Visitor Feedback: Collect feedback from visitors to gauge their understanding and engagement with the environmental issues presented.
 Data Analysis: Analyze the environmental data collected to identify trends and measure the impact of the installation on public awareness and behavior.
 Community Engagement: Track participation in workshops and talks to assess the project’s reach and effectiveness in educating the community.
+
 This project not only showcases the creative potential of generative AI but also serves as a powerful tool for environmental education and activism. By visualizing real-time environmental data in an engaging and interactive way, the AI-Driven Eco-Art Installation aims to inspire action and foster a deeper connection between people and the environment.
