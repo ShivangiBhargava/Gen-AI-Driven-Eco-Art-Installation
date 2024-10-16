@@ -1,5 +1,5 @@
 "use client"
-
+import ReactDOM from 'react-dom';
 import { useState, useEffect, useRef } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Button } from "@/components/ui/button"
@@ -254,7 +254,7 @@ function Copyright() {
   )
 }
 
-export default function EcoArtInstallation() {
+export default function App() {
   const [currentPageIndex, setCurrentPageIndex] = useState(0)
   const [direction, setDirection] = useState(0)
   const [environmentalData, setEnvironmentalData] = useState({
@@ -378,3 +378,5 @@ export default function EcoArtInstallation() {
     </div>
   )
 }
+
+ReactDOM.render(<App />, document.getElementById('root'));
